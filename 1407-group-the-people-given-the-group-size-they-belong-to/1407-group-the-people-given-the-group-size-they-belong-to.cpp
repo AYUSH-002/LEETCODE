@@ -1,6 +1,8 @@
 class Solution {
 public:
-    vector<vector<int>> groupThePeople(vector<int>& groupSizes) {
+    vector<vector<int>> groupThePeople(vector<int>& groupSizes) 
+    {
+        ios_base::sync_with_stdio(0); cin.tie(NULL);
         vector<vector<int>>ans;
         int n=groupSizes.size();
         unordered_map<int,int>umap;
