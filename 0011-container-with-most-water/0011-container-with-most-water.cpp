@@ -7,10 +7,12 @@ public:
     int r = height.size() - 1;
 
     while (l < r) {
-      const int minHeight = min(height[l], height[r]);
-      ans = max(ans, minHeight * (r - l));
+      ans = max(ans, min(height[l], height[r]) * (r - l));
       if (height[l] < height[r])
+      {
         ++l;
+        continue;
+      }
       else
         --r;
     }
