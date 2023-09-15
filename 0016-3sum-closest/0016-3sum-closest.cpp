@@ -1,7 +1,7 @@
 class Solution {
 public:
     int threeSumClosest(vector<int>& num, int target) {
-        // ios_base::sync_with_stdio(0); cin.tie(NULL);
+        ios_base::sync_with_stdio(0); cin.tie(NULL);
         int ans=INT_MAX;
         sort(num.begin(), num.end());
         int i, j, k;
