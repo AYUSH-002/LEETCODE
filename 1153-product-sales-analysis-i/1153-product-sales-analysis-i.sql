@@ -1,2 +1,6 @@
 # Write your MySQL query statement below
-SELECT product_name,year,price FROM Sales NATURAL JOIN Product;
+select product.product_name, sales.year, sales.price
+from sales
+left join
+product
+on sales.product_id = product.product_id
