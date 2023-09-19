@@ -1,24 +1,21 @@
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) 
-    {
-        ios::sync_with_stdio(0); cin.tie(0);
-        int ans=0;
-        unordered_map<int,int>umap;
-        for(auto i:nums)
-        {
-            umap[i]++;
+    int findDuplicate(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);cin.tie(NULL) ;
+        int one = 0;
+        int two = 0;
+
+        while (true){
+            one = nums[nums[one]];
+            two = nums[two];
+            if(two == one){break;}
         }
-        for(auto x:umap)
-        {
-            if(x.second>1)
-            {
-                ans=x.first;
-                break;
-            }
+
+        one = 0;
+        while(true){
+            one = nums[one];
+            two = nums[two];
+            if(one == two){return two;}
         }
-        return ans; 
-        
-       
     }
 };
