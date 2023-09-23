@@ -1,6 +1,7 @@
 class Solution {
  public:
   int longestStrChain(vector<string>& words) {
+    ios_base::sync_with_stdio(0); cin.tie(NULL);
     int ans = 0;
     unordered_map<string, int> dp;
 
