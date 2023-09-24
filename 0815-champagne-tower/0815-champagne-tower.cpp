@@ -2,6 +2,7 @@ class Solution {
 public:
     double champagneTower(int poured, int query_row, int query_glass) 
     {
+        ios_base::sync_with_stdio(0); cin.tie(NULL);
         vector<double>currRow(1,poured);
         for(int i=0;i<=query_row;i++)
         {
