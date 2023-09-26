@@ -3,36 +3,19 @@ public:
     int firstMissingPositive(vector<int>& nums) 
     {
         ios_base::sync_with_stdio(0); cin.tie(NULL);
-        sort(nums.begin(),nums.end());
-        set<int>ans;
-        for(int i=0;i<nums.size();i++)
+        int n=nums.size();
+        vector<bool>checker(n+1,false);    
+        for(int i=0;i<n;i++)
         {
-            if(nums[i]>0)
+            if(nums[i]<n+1 && nums[i]>0)
             {
-                ans.insert(nums[i]);
+                checker[nums[i]]=true;
             }
         }
-        int count=1;
-        int a;
-        if(ans.size()==0)
+        for(int i=1;i<n+1;i++)
         {
-            return 1;
+            if(checker[i]==false){return i;}
         }
-        else
-        {
-        for(auto& x:ans)
-        {
-            if(x==count)
-            {
-                count++;
-            }
-            else
-            {
-                a=count;
-                break;
-            }
-        }
-        }
-        return a;
+        return n+1;
     }
 };
