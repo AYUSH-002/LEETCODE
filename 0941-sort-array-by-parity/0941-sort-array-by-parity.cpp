@@ -1,24 +1,19 @@
 class Solution {
 public:
-    vector<int> sortArrayByParity(vector<int>& nums) 
-    {
-        ios_base::sync_with_stdio(0); cin.tie(NULL);
-        int n=nums.size();
-        vector<int>res;
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i]%2==0)
-            {
-                res.push_back(nums[i]);
+    vector<int> sortArrayByParity(vector<int>& nums) {
+        int evenPtr = 0;
+        int oddPtr = nums.size() - 1;
+        while (evenPtr < oddPtr) {
+            if (nums[evenPtr] % 2 == 0) {
+                evenPtr++; 
+            } else if (nums[oddPtr] % 2 == 1) {
+                oddPtr--; 
+            } else {
+                swap(nums[evenPtr], nums[oddPtr]);
+                evenPtr++;
+                oddPtr--;
             }
         }
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i]%2!=0)
-            {
-                res.push_back(nums[i]);
-            }
-        }
-        return res;
+        return nums;
     }
 };
