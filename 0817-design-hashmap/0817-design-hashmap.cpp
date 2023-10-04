@@ -3,7 +3,7 @@ public:
 int res[1000001];
     MyHashMap() 
     {
-        ios_base::sync_with_stdio(0); cin.tie(NULL);cout.tie(NULL);
+        ios_base::sync_with_stdio(0); cin.tie(NULL);
         memset(res,-1,sizeof(res));
     }
     
