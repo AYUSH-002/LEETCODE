@@ -1,6 +1,7 @@
 class Solution {
  public:
   bool winnerOfGame(string colors) {
+      ios_base::sync_with_stdio(0); cin.tie(NULL);cout.tie(NULL);
       int n=colors.size();
       int resA=0;
       int resB=0;
