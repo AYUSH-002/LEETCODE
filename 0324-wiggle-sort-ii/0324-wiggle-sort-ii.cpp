@@ -1,6 +1,7 @@
 class Solution {
 public:
     void wiggleSort(vector<int>& nums) {
+        ios_base::sync_with_stdio(0); cin.tie(NULL);cout.tie(NULL);
         int n=nums.size();
         vector<int>res=nums;
         sort(res.begin(),res.end());
