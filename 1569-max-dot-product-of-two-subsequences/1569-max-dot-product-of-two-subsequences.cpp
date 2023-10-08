@@ -1,13 +1,8 @@
-static int speedup = []() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(0);
-	return 0;
-}();
 class Solution {
 public:
     int maxDotProduct(vector<int>& n1, vector<int>& n2) 
     {
+        ios_base::sync_with_stdio(0); cin.tie(NULL);cout.tie(NULL);
         int n=n1.size();
         int m=n2.size();
         vector<vector<int>>dp(n+1,vector<int>(m+1,INT_MIN));
