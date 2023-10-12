@@ -7,14 +7,19 @@
  *     int length();
  * };
  */
-
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     int findInMountainArray(int target, MountainArray &mountainArr) 
     {
        int low=0,high=mountainArr.length()-1;
        int peak;
-       while(low!=high)
+       while(low<high)
        {
            peak=(low+high)/2;
            if(mountainArr.get(peak)<mountainArr.get(peak+1))
