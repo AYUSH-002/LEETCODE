@@ -15,35 +15,42 @@
  *     const vector<NestedInteger> &getList() const;
  * };
  */
-
-class NestedIterator {
-    vector<int>res;
-    int curr=0;
-    void flatten(vector<NestedInteger>& currentList) 
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
+class NestedIterator
+{
+    vector<int> res;
+    int currIndex = 0;
+    void result(vector<NestedInteger> &currIndexentList)
     {
-        for(int i=0;i<currentList.size();i++)
+        for (int i = 0; i < currIndexentList.size(); i++)
         {
-            if(currentList[i].isInteger())
-        {
-            res.push_back(currentList[i].getInteger());
-        }
-        else
-        {
-            flatten(currentList[i].getList());
-        }
+            if (currIndexentList[i].isInteger())
+            {
+                res.push_back(currIndexentList[i].getInteger());
+            }
+            else
+            {
+                result(currIndexentList[i].getList());
+            }
         }
     }
 public:
-    NestedIterator(vector<NestedInteger> &nestedList) {
-        flatten(nestedList);
+    NestedIterator(vector<NestedInteger> &nestedList)
+    {
+        result(nestedList);
     }
-    
-    int next() {
-        return res[curr++];
+    int next()
+    {
+        return res[currIndex++];
     }
-    
-    bool hasNext() {
-        return curr<res.size();
+    bool hasNext()
+    {
+        return currIndex < res.size();
     }
 };
 
