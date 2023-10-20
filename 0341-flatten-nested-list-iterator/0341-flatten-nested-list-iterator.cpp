@@ -15,12 +15,6 @@
  *     const vector<NestedInteger> &getList() const;
  * };
  */
-static int speedup = []() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(0);
-	return 0;
-}();
 class NestedIterator
 {
     vector<int> res;
