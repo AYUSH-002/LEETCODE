@@ -24,6 +24,6 @@ public:
             }
             res.push_front(i);
         }
-        return *max_element(dp.begin(), dp.end());
+        return *max_element(dp.begin(), dp.end());
     }
 };
