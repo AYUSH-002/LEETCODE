@@ -1,3 +1,9 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
 string solve(string &s,int i,int j)
@@ -11,7 +17,6 @@ string solve(string &s,int i,int j)
 }
     string longestPalindrome(string s) 
     {
-        ios::sync_with_stdio(0); cin.tie(0);
         // Better Approach
         int n=s.size();
         string ans="";
