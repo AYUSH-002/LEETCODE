@@ -4,10 +4,24 @@ static int speedup = []() {
 	cout.tie(0);
 	return 0;
 }();
+int numOfOnes(int &a) {
+    int one = 0;
+    unsigned int ua = static_cast<unsigned int>(a);
+
+    while (ua > 0) {
+        int x = ua % 2;
+        if (x == 1) {
+            one++;
+        }
+        ua = ua / 2;
+    }
+
+    return one;
+}
 bool comp(int &a,int &b)
 {
-    int m=__builtin_popcountll(a);
-    int n=__builtin_popcountll(b);
+    int m=numOfOnes(a);
+    int n=numOfOnes(b);
     if(m==n)
     {
         return a<b;
@@ -21,5 +35,4 @@ public:
         sort(arr.begin(),arr.end(),comp);
         return arr;
     }
-
 };
