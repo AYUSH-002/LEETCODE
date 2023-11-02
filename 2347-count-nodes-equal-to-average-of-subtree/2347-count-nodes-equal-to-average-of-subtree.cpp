@@ -24,8 +24,10 @@ public:
     int averageOfSubtree(TreeNode* root) 
     {
         if(root==NULL) return 0;
-        int sum=root->val+sumNodes(root->left)+sumNodes(root->right); 
-        int nodes=1+countNodes(root->left)+countNodes(root->right);
+        int sum=sumNodes(root);
+        int nodes=countNodes(root);
+        // int sum=root->val+sumNodes(root->left)+sumNodes(root->right); 
+        // int nodes=1+countNodes(root->left)+countNodes(root->right);
         int avg=round(floor(sum/nodes));
         if(avg==root->val)
         {
