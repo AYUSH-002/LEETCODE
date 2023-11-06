@@ -1,30 +1,36 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     int getWinner(vector<int>& arr, int k) {
-        int maximum=*max_element(arr.begin(),arr.end());
-        int n=arr.size();
-        if(k>=n)
+        int maxElement=*max_element(arr.begin(),arr.end());
+        if(k>=maxElement)
         {
-            return maximum;
+            return maxElement;
         }
-        int winner=arr[0];
+        int res=arr[0];
+        int n=arr.size();
         int streak=0;
         for(int i=1;i<n;i++)
         {
-            if(arr[i]>winner)
+            if(arr[i]>res)
             {
-                winner=arr[i];
+                res=arr[i];
                 streak=1;
             }
             else
             {
                 streak++;
             }
-            if(winner==maximum || streak==k)
+            if(k==streak)
             {
-                return winner;
+                return res;
             }
         }
-        return winner;
+        return res;
     }
 };
