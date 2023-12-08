@@ -9,12 +9,12 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- static int speedup = []() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(0);
-	return 0;
-}();
+//  static int speedup = []() {
+// 	ios::sync_with_stdio(false);
+// 	cin.tie(nullptr);
+// 	cout.tie(0);
+// 	return 0;
+// }();
 class Solution {
 public:
     string s;
