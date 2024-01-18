@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/poor-pigs">458. Poor Pigs</a></h2><h3>Hard</h3><hr><p>There are <code>buckets</code> buckets of liquid, where <strong>exactly one</strong> of the buckets is poisonous. To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. Unfortunately, you only have <code>minutesToTest</code> minutes to determine which bucket is poisonous.</p>
+<h2><a href="https://leetcode.com/problems/poor-pigs/">458. Poor Pigs</a></h2><h3>Hard</h3><hr><div><p>There are <code>buckets</code> buckets of liquid, where <strong>exactly one</strong> of the buckets is poisonous. To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. Unfortunately, you only have <code>minutesToTest</code> minutes to determine which bucket is poisonous.</p>
 
 <p>You can feed the pigs according to these steps:</p>
 
@@ -15,8 +15,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 15
+<pre><strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 15
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> We can determine the poisonous bucket as follows:
 At time 0, feed the first pig buckets 1 and 2, and feed the second pig buckets 2 and 3.
@@ -29,8 +28,7 @@ At time 15, there are 4 possible outcomes:
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 30
+<pre><strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 30
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> We can determine the poisonous bucket as follows:
 At time 0, feed the first pig bucket 1, and feed the second pig bucket 2.
@@ -47,3 +45,4 @@ At time 30, one of the two pigs must die, and the poisonous bucket is the one it
 	<li><code>1 &lt;= buckets &lt;= 1000</code></li>
 	<li><code>1 &lt;=&nbsp;minutesToDie &lt;=&nbsp;minutesToTest &lt;= 100</code></li>
 </ul>
+</div>
