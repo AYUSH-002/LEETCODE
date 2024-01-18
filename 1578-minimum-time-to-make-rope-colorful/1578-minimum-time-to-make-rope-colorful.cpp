@@ -1,28 +1,22 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     int minCost(string colors, vector<int>& neededTime) {
-        int cnt=0;
-        int we=0;
-        int size=colors.size();
-        if(size==1){return 0;}
-        while(we<size)
+        int res=0;
+        int n=neededTime.size();
+        for(int i=1;i<n;i++)
         {
-            if(colors[we]==colors[we+1])
+            if(colors[i-1]==colors[i])
             {
-                int maxi=neededTime[we];
-                cnt+=neededTime[we];
-                while(colors[we]==colors[we+1] && we<size)
-                {
-                    we++;
-                    maxi=max(maxi,neededTime[we]);
-                    cnt+=neededTime[we];
-                }
-                cnt=cnt-maxi;
+                res+=min(neededTime[i],neededTime[i-1]);
+                neededTime[i]=max(neededTime[i],neededTime[i-1]);
             }
-            we++;
         }
-
-        return cnt;
-        
+        return res;
     }
 };
