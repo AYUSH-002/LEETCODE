@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) 
-    {
-        ios_base::sync_with_stdio(0); cin.tie(NULL);
+    void nextPermutation(vector<int>& nums) {
         int n=nums.size();
         int index=-1;
         for(int i=n-2;i>=0;i--)
@@ -13,7 +11,7 @@ public:
                 break;
             }
         }
-        for(int i=n-1;i>index && index!=-1;i--)
+        for(int i=n-1;i>index&& index!=-1;i--)
         {
             if(nums[i]>nums[index])
             {
@@ -22,6 +20,5 @@ public:
             }
         }
         reverse(nums.begin()+1+index,nums.end());
-         
     }
 };
