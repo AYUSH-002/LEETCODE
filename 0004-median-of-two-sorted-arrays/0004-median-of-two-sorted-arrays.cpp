@@ -1,8 +1,13 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) 
     {
-        ios::sync_with_stdio(0); cin.tie(0);
         vector<int>total;
         for(auto& x:nums1)
         {
