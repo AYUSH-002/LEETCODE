@@ -1,3 +1,9 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
@@ -11,7 +17,7 @@ public:
                 break;
             }
         }
-        for(int i=n-1;i>index&& index!=-1;i--)
+        for(int i=n-1;i>=index && index!=-1;i--)
         {
             if(nums[i]>nums[index])
             {
@@ -19,6 +25,6 @@ public:
                 break;
             }
         }
-        reverse(nums.begin()+1+index,nums.end());
+        reverse(nums.begin()+index+1,nums.end());
     }
 };
