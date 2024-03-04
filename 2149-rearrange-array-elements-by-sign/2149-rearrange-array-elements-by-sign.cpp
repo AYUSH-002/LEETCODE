@@ -9,83 +9,21 @@ public:
     vector<int> rearrangeArray(vector<int>& nums) 
     {
         int n=nums.size();
-        vector<int>pos;
-        vector<int>neg;
-        vector<int>ans;
-        if(n==2)
-        {
-            if(nums[0]>0)
-            {
-                return nums;
-            }
-            else
-            {
-                swap(nums[0],nums[1]);
-                return nums;
-            }
-        }
+        vector<int>ans(n,0);
+        int pos=0,neg=1;
         for(int i=0;i<n;i++)
         {
             if(nums[i]>0)
             {
-                pos.push_back(nums[i]);
+                ans[pos]=nums[i];
+                pos+=2;
             }
             else
             {
-                neg.push_back(nums[i]);
+                ans[neg]=nums[i];
+                neg+=2;
             }
         }
-        // for(int i=0;i<n/2;i++)
-        // {
-        //     cout<<pos[i]<<" ";
-        // }
-        // cout<<endl;
-        // for(int i=0;i<n/2;i++)
-        // {
-        //     cout<<neg[i]<<" ";
-        // }
-        // cout<<endl;
-        for(int i=0;i<n/2;i++)
-        {
-            ans.push_back(pos[i]);
-            ans.push_back(neg[i]);
-        }
-        // for(int i=0;i<n-1;i++)
-        // {
-        //     if(nums[i]>0 && nums[i+1]<0)
-        //     {
-        //         ans.push_back(nums[i]);
-        //         ans.push_back(nums[i+1]);
-        //         i=i+2;
-        //     }
-        //     else if(nums[i]<0 && nums[i+1]>0)
-        //     {
-        //         swap(nums[i],nums[i+1]);
-        //         ans.push_back(nums[i]);
-        //         ans.push_back(nums[i+1]);
-        //         i=i+2;
-        //     }
-        //     else if(nums[i]<0 && nums[i+1]<0)
-        //     {
-        //         int k=find(nums.begin(), nums.end(),nums[i]>0);
-        //         swap(nums[i],nums[k]);
-        //         ans.push_back(nums[i]);
-        //         ans.push_back(nums[i+1]);
-        //         i=i+2;
-        //     }
-        //     else
-        //     {
-        //         int k=find(nums.begin(), nums.end(),nums[i]<0);
-        //         swap(nums[i+1],nums[k]);
-        //         ans.push_back(nums[i]);
-        //         ans.push_back(nums[i+1]);
-        //         i=i+2;
-        //     }
-        // }
-        // for(int i=0;i<n;i++)
-        // {
-        //     cout<<ans[i]<<" ";
-        // }
         return ans;
     }
 };
