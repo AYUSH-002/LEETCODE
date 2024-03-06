@@ -1,22 +1,25 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        ios_base::sync_with_stdio(0); cin.tie(NULL);
-         int count=0;
-        for(int i=0;i<nums.size();i++)
+        int n=nums.size();
+        int low=0;
+        int high=n-1;
+        int index=-1;
+        while(low<=high)
         {
-            if(nums[i]==target)
+            int mid=(low+high)/2;
+            if(nums[mid]==target) return mid;
+            else if(nums[mid]>target)
             {
-                return i;
+                index=mid;
+                high=mid-1;
             }
             else
             {
-                if(nums[i]<target)
-                {
-                    count++;
-                }
+                low=mid+1;
             }
         }
-        return count;
+        return index!=-1?index:n;
+       
     }
 };
