@@ -10,13 +10,12 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) 
-    {
-        if (!head ){
-            return head;
-
+    ListNode* reverseList(ListNode* head) {
+        if(!head)
+        {
+           return head;
         }
-        ListNode*p=head;
+        ListNode* p=head;
         ListNode*q=NULL;
         ListNode*r=NULL;
         while(p!=NULL)
