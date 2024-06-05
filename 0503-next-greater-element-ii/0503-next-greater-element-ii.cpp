@@ -1,19 +1,24 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n=nums.size();
-        vector<int>solution(n,-1);
-        for(int i=0;i<n;i++)
+        stack<int>s;
+        vector<int>result(n,-1);
+        for(int i=2*n-1;i>=0;i--)
         {
-            for(int j=i+1;j<n+i;j++)
+            while(!s.empty() && nums[i%n]>=s.top()) s.pop();
+            if(i<n && !s.empty())
             {
-                if(nums[j%n]>nums[i])
-                {
-                    solution[i]=nums[j%n];
-                    break;
-                }
+                result[i]=s.top();
             }
+            s.push(nums[i%n]);
         }
-        return solution;
+        return result;
     }
 };
