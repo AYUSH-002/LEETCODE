@@ -6,6 +6,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AYUSH-002/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
@@ -32,3 +34,4 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
