@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/AYUSH-002/LEETCODE/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
 # Two Pointers
@@ -63,8 +64,10 @@
 # Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
 # Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
