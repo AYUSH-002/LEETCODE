@@ -55,7 +55,16 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/AYUSH-002/LEETCODE/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
 # Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
+# Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
