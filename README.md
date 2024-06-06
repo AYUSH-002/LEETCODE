@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0686-repeated-string-match](https://github.com/AYUSH-002/LEETCODE/tree/master/0686-repeated-string-match) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
 # Monotonic Stack
 |  |
@@ -49,3 +50,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
+# String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AYUSH-002/LEETCODE/tree/master/0686-repeated-string-match) |
