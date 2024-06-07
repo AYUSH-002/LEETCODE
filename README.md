@@ -21,12 +21,14 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
 # String
@@ -55,6 +57,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/AYUSH-002/LEETCODE/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
 # Two Pointers
@@ -71,3 +74,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AYUSH-002/LEETCODE/tree/master/1508-longest-happy-prefix) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
