@@ -94,3 +94,15 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+# Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
