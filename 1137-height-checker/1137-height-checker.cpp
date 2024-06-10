@@ -5,10 +5,6 @@ public:
         int count=0;
         vector<int>initial=heights;
         int n=heights.size();
-        // for(int i=0;i<n;i++)
-        // {
-        //     initial[i]=heights[i];
-        // }
         sort(heights.begin(), heights.end());
         for(int i=0;i<n;i++)
         {
