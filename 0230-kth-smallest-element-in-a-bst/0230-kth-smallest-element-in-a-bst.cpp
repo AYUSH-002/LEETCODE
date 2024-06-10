@@ -17,15 +17,22 @@ static int speedup = []() {
 }();
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>& result) {
-    if (root == NULL) return;
-    inorder(root->left, result);
-    result.push_back(root->val);
-    inorder(root->right, result);
+    
+    void solve(TreeNode* root, int &counter, int &result, int k){
+        if(root == NULL)    return;
+        solve(root->left, counter, result, k);
+        counter++;
+        if(counter == k){
+            result = root->val;
+            return;
+        }
+        solve(root->right, counter, result, k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> result;
-        inorder(root, result);
-        return result[k-1];
+        
+        int counter = 0;        
+        int result;
+        solve(root, counter, result, k);
+        return result;
     }
 };
