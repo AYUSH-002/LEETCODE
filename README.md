@@ -26,6 +26,7 @@
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AYUSH-002/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 # String Matching
 |  |
 | ------- |
@@ -119,3 +121,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
