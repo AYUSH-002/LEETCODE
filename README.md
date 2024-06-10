@@ -112,6 +112,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -122,6 +123,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -132,6 +134,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
