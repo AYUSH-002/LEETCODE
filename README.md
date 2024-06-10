@@ -8,6 +8,7 @@
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Design
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AYUSH-002/LEETCODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/1044-find-common-characters) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 # Hash Table
 |  |
@@ -49,6 +51,7 @@
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Greedy
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Binary Tree
 |  |
 | ------- |
@@ -120,6 +125,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
