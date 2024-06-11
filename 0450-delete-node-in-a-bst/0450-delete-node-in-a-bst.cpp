@@ -10,34 +10,32 @@
  * };
  */
 static int speedup = []() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(0);
-	return 0;
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(0);
+    return 0;
 }();
+
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL) return NULL;
+        if(root == NULL) return NULL;
         int current = root->val;
-        if(current==key){
-            if(root->right){
-                TreeNode *temp = root->right;
-                while(temp->left){
-                    temp= temp->left;
+        if(current == key) {
+            if(root->right) {
+                TreeNode* temp = root->right;
+                while(temp->left) {
+                    temp = temp->left;
                 }
                 temp->left = root->left;
                 return root->right;
-            }
-            else{
+            }else {
                 return root->left;
             }
-        }
-        else if(key<current){
-            root->left = deleteNode(root->left,key);
-        }
-        else{
-            root->right = deleteNode(root->right,key);
+        } else if(current < key) {
+            root->right = deleteNode(root->right, key);
+        } else {
+            root->left = deleteNode(root->left, key);
         }
         return root;
     }
