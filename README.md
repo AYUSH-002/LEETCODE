@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AYUSH-002/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
@@ -150,6 +153,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Counting Sort
