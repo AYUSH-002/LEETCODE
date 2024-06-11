@@ -116,6 +116,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
