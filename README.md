@@ -24,6 +24,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -67,6 +68,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Rolling Hash
 |  |
