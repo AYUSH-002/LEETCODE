@@ -35,6 +35,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String Matching
 |  |
 | ------- |
