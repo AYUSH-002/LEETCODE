@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -212,3 +213,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
+# Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
