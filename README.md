@@ -26,6 +26,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYUSH-002/LEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYUSH-002/LEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
@@ -205,3 +208,7 @@
 |  |
 | ------- |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
