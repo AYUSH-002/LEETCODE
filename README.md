@@ -115,6 +115,7 @@
 # Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
 # Prefix Sum
@@ -217,3 +218,7 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
