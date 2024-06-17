@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -222,3 +223,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
