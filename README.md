@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
@@ -228,5 +229,10 @@
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
