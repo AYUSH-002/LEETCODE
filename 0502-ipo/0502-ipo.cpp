@@ -11,27 +11,32 @@ public:
         return a.second > b.second;
     }
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
-        vector<pair<int, int>> values;
-        for(int i=0; i<profits.size(); i++){
-            values.push_back({capital[i], profits[i]});
+        int n=profits.size();
+        vector<pair<int,int>>values;
+        for(int i=0;i<n;i++)
+        {
+            values.push_back({capital[i],profits[i]});
         }
-        
-        sort(values.begin(), values.end(), cmp);
-        priority_queue<int> pq;
-
+        sort(values.begin(),values.end());
+        priority_queue<int>pq;
         int i=0;
-        for(; i<profits.size(); i++){
-            if(values[i].first <= w){
+        for(;i<n;i++)
+        {
+            if(values[i].first<=w)
+            {
                 pq.push(values[i].second);
             }
             else break;
         }
 
-        while(!pq.empty() && k--){
-            w += pq.top();
+        while(!pq.empty() && k--)
+        {
+            w+=pq.top();
             pq.pop();
-            for(; i<profits.size(); i++){
-                if(values[i].first <= w){
+            for(;i<n;i++)
+            {
+                if(values[i].first<=w)
+                {
                     pq.push(values[i].second);
                 }
                 else break;
