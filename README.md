@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/AYUSH-002/LEETCODE/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
@@ -223,6 +224,7 @@
 # Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AYUSH-002/LEETCODE/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
 # Bit Manipulation
 |  |
