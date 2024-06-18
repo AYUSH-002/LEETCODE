@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
 # Prefix Sum
@@ -240,3 +242,11 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
