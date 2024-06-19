@@ -12,12 +12,14 @@
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AYUSH-002/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AYUSH-002/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AYUSH-002/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 # Queue
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Greedy
 |  |
@@ -265,3 +268,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AYUSH-002/LEETCODE/tree/master/0735-asteroid-collision) |
+# Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
