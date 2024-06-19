@@ -11,6 +11,7 @@
 | [0402-remove-k-digits](https://github.com/AYUSH-002/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AYUSH-002/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Design
 |  |
@@ -35,6 +36,7 @@
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/AYUSH-002/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/AYUSH-002/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYUSH-002/LEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -259,3 +261,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/AYUSH-002/LEETCODE/tree/master/0735-asteroid-collision) |
