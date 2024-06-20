@@ -131,6 +131,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AYUSH-002/LEETCODE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/AYUSH-002/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/AYUSH-002/LEETCODE/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/2050-count-good-numbers) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/AYUSH-002/LEETCODE/tree/master/0070-climbing-stairs) |
 # Enumeration
 |  |
 | ------- |
@@ -272,3 +274,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AYUSH-002/LEETCODE/tree/master/0070-climbing-stairs) |
