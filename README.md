@@ -50,6 +50,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AYUSH-002/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -96,6 +97,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYUSH-002/LEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String Matching
 |  |
@@ -177,6 +179,7 @@
 | [0907-koko-eating-bananas](https://github.com/AYUSH-002/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AYUSH-002/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 # Binary Tree
 |  |
