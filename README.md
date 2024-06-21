@@ -49,6 +49,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AYUSH-002/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/AYUSH-002/LEETCODE/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/AYUSH-002/LEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSH-002/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/AYUSH-002/LEETCODE/tree/master/1138-grumpy-bookstore-owner) |
 # Tree
 |  |
 | ------- |
