@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0090-subsets-ii) |
@@ -242,6 +243,7 @@
 # Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 # Heap (Priority Queue)
 |  |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AYUSH-002/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AYUSH-002/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
