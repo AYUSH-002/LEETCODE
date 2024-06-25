@@ -168,6 +168,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0907-koko-eating-bananas](https://github.com/AYUSH-002/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AYUSH-002/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 # Binary Tree
@@ -201,6 +203,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AYUSH-002/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Counting Sort
 |  |
 | ------- |
