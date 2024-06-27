@@ -40,6 +40,7 @@
 | [0216-combination-sum-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/AYUSH-002/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -280,6 +281,7 @@
 | [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0494-target-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AYUSH-002/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0494-target-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Enumeration
 |  |
