@@ -59,6 +59,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AYUSH-002/LEETCODE/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AYUSH-002/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Rolling Hash
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Binary Tree
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [0029-divide-two-integers](https://github.com/AYUSH-002/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AYUSH-002/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0090-subsets-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AYUSH-002/LEETCODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # Backtracking
 |  |
@@ -288,6 +292,7 @@
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AYUSH-002/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Enumeration
 |  |
 | ------- |
@@ -308,3 +313,11 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AYUSH-002/LEETCODE/tree/master/0070-climbing-stairs) |
+# Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
