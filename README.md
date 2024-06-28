@@ -97,6 +97,7 @@
 | [0876-hand-of-straights](https://github.com/AYUSH-002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AYUSH-002/LEETCODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AYUSH-002/LEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 # Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [1217-relative-sort-array](https://github.com/AYUSH-002/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AYUSH-002/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AYUSH-002/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AYUSH-002/LEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 # String Matching
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AYUSH-002/LEETCODE/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AYUSH-002/LEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
 # Recursion
 |  |
 | ------- |
@@ -326,3 +329,7 @@
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AYUSH-002/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/AYUSH-002/LEETCODE/tree/master/2379-maximum-total-importance-of-roads) |
