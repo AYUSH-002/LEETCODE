@@ -422,6 +422,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/AYUSH-002/LEETCODE/tree/master/0197-rising-temperature) |
 | [1258-article-views-i](https://github.com/AYUSH-002/LEETCODE/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/AYUSH-002/LEETCODE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AYUSH-002/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
