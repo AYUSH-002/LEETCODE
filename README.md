@@ -419,4 +419,8 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AYUSH-002/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
