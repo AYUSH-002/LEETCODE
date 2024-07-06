@@ -358,6 +358,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1293-three-consecutive-odds](https://github.com/AYUSH-002/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -371,6 +372,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -398,6 +400,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
