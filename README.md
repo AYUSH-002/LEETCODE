@@ -419,6 +419,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Database
 |  |
 | ------- |
@@ -426,4 +427,8 @@
 | [1258-article-views-i](https://github.com/AYUSH-002/LEETCODE/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/AYUSH-002/LEETCODE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AYUSH-002/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
