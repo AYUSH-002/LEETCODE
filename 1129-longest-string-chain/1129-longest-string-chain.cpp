@@ -1,21 +1,33 @@
+
+static int speedup = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(0);
+    return 0;
+}();
 class Solution {
- public:
-  int longestStrChain(vector<string>& words) {
-    ios_base::sync_with_stdio(0); cin.tie(NULL);
-    int ans = 0;
-    unordered_map<string, int> dp;
-
-    sort(words.begin(), words.end(),
-         [](const auto& a, const auto& b) { return a.length() < b.length(); });
-
-    for (const string& word : words) {
-      for (int i = 0; i < word.length(); ++i) {
-        const string pred = word.substr(0, i) + word.substr(i + 1);
-        dp[word] = max(dp[word], (dp.count(pred) ? dp[pred] : 0) + 1);
-      }
-      ans = max(ans, dp[word]);
+public:
+    int longestStrChain(vector<string>& words) {
+        if(words.empty()) return 0;
+        sort(words.begin(),words.end(),[](string &a,string &b){
+            return a.size()<b.size();
+        });
+        int result=1;
+        map<string,int>mp;
+        for(const string word:words)
+        {
+            mp[word]=1;
+            for(int j=0;j<word.size();j++)
+            {
+                string temp=word;
+                temp.erase(j,1);
+                if(!temp.empty() && mp.find(temp)!=mp.end())
+                {
+                    mp[word]=max(mp[word],mp[temp]+1);
+                }
+                result=max(mp[word],result);
+            }
+        }
+        return result;
     }
-
-    return ans;
-  }
 };
