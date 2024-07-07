@@ -421,6 +421,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AYUSH-002/LEETCODE/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Database
@@ -433,5 +434,6 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AYUSH-002/LEETCODE/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
