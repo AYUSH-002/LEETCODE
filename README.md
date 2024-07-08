@@ -363,6 +363,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1293-three-consecutive-odds](https://github.com/AYUSH-002/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -382,6 +383,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
