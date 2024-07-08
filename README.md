@@ -439,6 +439,7 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/AYUSH-002/LEETCODE/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/AYUSH-002/LEETCODE/tree/master/0620-not-boring-movies) |
+| [1161-project-employees-i](https://github.com/AYUSH-002/LEETCODE/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/AYUSH-002/LEETCODE/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/AYUSH-002/LEETCODE/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/AYUSH-002/LEETCODE/tree/master/1801-average-time-of-process-per-machine) |
