@@ -6,18 +6,18 @@ static int speedup = []() {
 }();
 class Solution {
 public:
-    int result(int index,vector<int>& arr, int k,vector<int>&dp)
+    int solve(int index,vector<int>& arr,int k,vector<int>&dp)
     {
         int n=arr.size();
         if(index==n) return 0;
         if(dp[index]!=-1) return dp[index];
-        int len=0;
-        int maxi=INT_MIN,maxSum=INT_MIN;
-        for(int i=index;i< min(n,index+k);i++)
+        int currLen=0;
+        int maxSum=INT_MIN,currMax=INT_MIN;
+        for(int i=index;i<min(n,index+k);i++)
         {
-            len++;
-            maxi=max(maxi,arr[i]);
-            int sum=len*maxi+result(i+1,arr,k,dp);
+            currLen++;
+            currMax=max(currMax,arr[i]);
+            int sum=currLen*currMax+solve(i+1,arr,k,dp);
             maxSum=max(maxSum,sum);
         }
         return dp[index]=maxSum;
@@ -25,6 +25,6 @@ public:
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
         int n=arr.size();
         vector<int>dp(n,-1);
-        return result(0,arr,k,dp);
+        return solve(0,arr,k,dp);
     }
 };
