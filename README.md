@@ -438,6 +438,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AYUSH-002/LEETCODE/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/AYUSH-002/LEETCODE/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/AYUSH-002/LEETCODE/tree/master/1258-article-views-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/AYUSH-002/LEETCODE/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AYUSH-002/LEETCODE/tree/master/1827-invalid-tweets) |
