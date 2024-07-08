@@ -442,6 +442,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/AYUSH-002/LEETCODE/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AYUSH-002/LEETCODE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AYUSH-002/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/AYUSH-002/LEETCODE/tree/master/2087-confirmation-rate) |
 ## Math
 |  |
 | ------- |
