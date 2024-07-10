@@ -354,6 +354,7 @@
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -477,4 +478,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
