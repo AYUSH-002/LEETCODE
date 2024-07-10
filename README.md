@@ -360,6 +360,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AYUSH-002/LEETCODE/tree/master/0312-burst-balloons) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -381,6 +382,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AYUSH-002/LEETCODE/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -494,4 +496,5 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
