@@ -6,33 +6,35 @@ static int speedup = []() {
 }();
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        int length = heights.size();
-        vector<int> left(length);
-        vector<int> right(length);
-        int maxArea = 0;
-        left[0] = -1;
-        right[length - 1] = length;
-
-        for (int i = 1; i < length; ++i) {
-            int currentIndex = i - 1;
-            while (currentIndex >= 0 && heights[currentIndex] >= heights[i]) {
-                currentIndex = left[currentIndex];
+    int largestRectangleArea(vector<int>& height) {
+        int n=height.size();
+        vector<int>left(n);
+        vector<int>right(n);
+        left[0]=-1;
+        right[n-1]=n;
+        for(int i=1;i<n;i++)
+        {
+            int currentIndex=i-1;
+            while(currentIndex>=0 && height[currentIndex]>=height[i])
+            {
+                currentIndex=left[currentIndex];
             }
-            left[i] = currentIndex;
+            left[i]=currentIndex;
         }
-
-        for (int i = length - 2; i >= 0; --i) {
-            int currentIndex = i + 1;
-            while (currentIndex < length && heights[currentIndex] >= heights[i]) {
-                currentIndex = right[currentIndex];
+        for(int i=n-2;i>=0;i--)
+        {
+            int currentIndex=i+1;
+            while(currentIndex<n && height[currentIndex]>=height[i])
+            {
+                currentIndex=right[currentIndex];
             }
-            right[i] = currentIndex;
+            right[i]=currentIndex;
         }
-        for (int i = 0; i < length; ++i) {
-            maxArea = max(maxArea, heights[i] * (right[i] - left[i] - 1));
+        int result=INT_MIN;
+        for(int i=0;i<n;i++)
+        {
+            result=max(result,height[i]*(right[i]-left[i]-1));
         }
-
-        return maxArea;
+        return result;
     }
 };
