@@ -406,6 +406,7 @@
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
@@ -489,6 +490,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
