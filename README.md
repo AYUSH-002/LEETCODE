@@ -405,6 +405,7 @@
 | [0115-distinct-subsequences](https://github.com/AYUSH-002/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -416,6 +417,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
@@ -497,6 +500,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
