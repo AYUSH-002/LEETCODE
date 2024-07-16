@@ -339,6 +339,7 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AYUSH-002/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -411,6 +412,7 @@
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
 ## Hash Table
@@ -523,4 +525,12 @@
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AYUSH-002/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
