@@ -23,19 +23,22 @@ public:
         if (!temp.empty()) {
             sol.push_back(temp);
         }
-        
-        sol.erase(remove(sol.begin(), sol.end(), ""), sol.end());
-        
-        reverse(sol.begin(), sol.end());
-        
-        string ans = "";
-        for (int i = 0; i < sol.size(); i++) {
-            ans += sol[i];
-            if (i != sol.size() - 1) {
-                ans += " ";
+        sol.erase(remove(sol.begin(),sol.end(),""),sol.end());
+        reverse(sol.begin(),sol.end());
+        string result="";
+        int m=sol.size();
+        for(int i=0;i<m;i++)
+        {
+            if(i!=m-1)
+            {
+                result+=sol[i];
+                result+=" ";
+            }
+            else
+            {
+                result+=sol[i];
             }
         }
-        
-        return ans;
+        return result;
     }
 };
