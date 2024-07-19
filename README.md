@@ -414,6 +414,7 @@
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
