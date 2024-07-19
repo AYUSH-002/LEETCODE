@@ -415,6 +415,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -489,6 +490,7 @@
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/AYUSH-002/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
