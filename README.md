@@ -364,6 +364,7 @@
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/AYUSH-002/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AYUSH-002/LEETCODE/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AYUSH-002/LEETCODE/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
@@ -434,6 +435,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AYUSH-002/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
