@@ -372,6 +372,7 @@
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1293-three-consecutive-odds](https://github.com/AYUSH-002/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/AYUSH-002/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -517,6 +518,7 @@
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AYUSH-002/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Bit Manipulation
 |  |
