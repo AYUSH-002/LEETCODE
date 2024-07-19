@@ -373,6 +373,7 @@
 | [1293-three-consecutive-odds](https://github.com/AYUSH-002/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AYUSH-002/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/AYUSH-002/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
