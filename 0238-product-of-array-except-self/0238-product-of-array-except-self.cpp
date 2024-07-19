@@ -11,19 +11,25 @@ public:
         for (int i = 1; i < n; i++) {
             ans[i] *= ans[i - 1];
         }
-        int a = ans[n - 1];
-        for (int i = 0; i < n; i++) {
-            int b = 1;
-            if (nums[i] == 0) {
-                for (int j = 0; j < i; j++) {
-                    b *= nums[j];
+        int a=ans[n-1];
+        for(int i=0;i<n;i++)
+        {
+            int b=1;
+            if(nums[i]==0)
+            {
+                for(int j=0;j<i;j++)
+                {
+                    b*=nums[j];
                 }
-                for (int j = i + 1; j < n; j++) {
-                    b *= nums[j];
+                for(int j=i+1;j<n;j++)
+                {
+                    b*=nums[j];
                 }
-                ans[i] = b;
-            } else {
-                ans[i] = a / nums[i];
+                ans[i]=b;
+            }
+            else
+            {
+                ans[i]=a/nums[i];
             }
         }
         return ans;
