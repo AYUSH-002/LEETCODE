@@ -356,6 +356,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYUSH-002/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -437,6 +438,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYUSH-002/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AYUSH-002/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -460,6 +462,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AYUSH-002/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AYUSH-002/LEETCODE/tree/master/0605-can-place-flowers) |
