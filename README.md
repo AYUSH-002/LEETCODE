@@ -374,6 +374,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/AYUSH-002/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1293-three-consecutive-odds](https://github.com/AYUSH-002/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -557,6 +558,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AYUSH-002/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AYUSH-002/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/AYUSH-002/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AYUSH-002/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Tree
