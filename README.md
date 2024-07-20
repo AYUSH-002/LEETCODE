@@ -396,6 +396,7 @@
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AYUSH-002/LEETCODE/tree/master/0312-burst-balloons) |
+| [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -412,6 +413,7 @@
 | [0072-edit-distance](https://github.com/AYUSH-002/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AYUSH-002/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -438,6 +440,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AYUSH-002/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
