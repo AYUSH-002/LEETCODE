@@ -371,6 +371,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/AYUSH-002/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
@@ -565,4 +566,8 @@
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AYUSH-002/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
