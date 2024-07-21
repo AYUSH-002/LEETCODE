@@ -426,6 +426,7 @@
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -486,6 +487,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AYUSH-002/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -542,6 +544,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
