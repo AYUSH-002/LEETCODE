@@ -437,6 +437,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
 ## Hash Table
@@ -500,6 +501,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/AYUSH-002/LEETCODE/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 ## Database
@@ -548,6 +550,7 @@
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
