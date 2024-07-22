@@ -390,6 +390,7 @@
 | [1833-find-the-highest-altitude](https://github.com/AYUSH-002/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AYUSH-002/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
@@ -439,6 +440,7 @@
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
 ## Hash Table
@@ -452,6 +454,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -479,6 +482,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
