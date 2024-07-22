@@ -424,6 +424,7 @@
 | [0115-distinct-subsequences](https://github.com/AYUSH-002/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -543,6 +544,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
@@ -555,6 +557,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
