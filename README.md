@@ -386,6 +386,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/AYUSH-002/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/AYUSH-002/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AYUSH-002/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AYUSH-002/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -422,6 +423,7 @@
 | [1250-longest-common-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1511-count-number-of-teams](https://github.com/AYUSH-002/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## String
 |  |
 | ------- |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1511-count-number-of-teams](https://github.com/AYUSH-002/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
