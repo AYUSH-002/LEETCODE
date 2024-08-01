@@ -396,6 +396,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/AYUSH-002/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AYUSH-002/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
@@ -449,6 +450,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/AYUSH-002/LEETCODE/tree/master/2727-number-of-senior-citizens) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
 ## Hash Table
