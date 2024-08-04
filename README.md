@@ -418,6 +418,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AYUSH-002/LEETCODE/tree/master/1170-shortest-common-supersequence) |
@@ -546,6 +547,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/AYUSH-002/LEETCODE/tree/master/1642-water-bottles) |
@@ -564,6 +566,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
@@ -650,6 +653,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 ## Merge Sort
 |  |
