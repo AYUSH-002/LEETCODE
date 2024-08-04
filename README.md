@@ -388,6 +388,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/AYUSH-002/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AYUSH-002/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/AYUSH-002/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AYUSH-002/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -476,6 +477,7 @@
 | [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/AYUSH-002/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -483,6 +485,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/AYUSH-002/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -492,6 +495,7 @@
 | [0948-sort-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AYUSH-002/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/AYUSH-002/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AYUSH-002/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
