@@ -395,6 +395,7 @@
 | [1803-average-waiting-time](https://github.com/AYUSH-002/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/AYUSH-002/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AYUSH-002/LEETCODE/tree/master/2727-number-of-senior-citizens) |
@@ -449,6 +450,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AYUSH-002/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AYUSH-002/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
@@ -466,6 +468,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/AYUSH-002/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -646,6 +649,7 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
