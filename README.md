@@ -455,6 +455,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AYUSH-002/LEETCODE/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/AYUSH-002/LEETCODE/tree/master/3468-find-the-encrypted-string) |
 ## Hash Table
@@ -471,6 +472,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +508,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/AYUSH-002/LEETCODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -516,6 +519,7 @@
 | [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AYUSH-002/LEETCODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -650,6 +654,7 @@
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AYUSH-002/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
