@@ -7,24 +7,26 @@ static int speedup = []() {
 class Solution {
 public:
     int minimumPushes(string word) {
-        map<char,int>mp;
-        int result=0;
-        for(const char c:word)
-        {
-            mp[c]++;
+        vector<int> alphabets(26,0);
+        for(auto i:word){
+            alphabets[i-'a']++;
         }
-        vector<pair<char, int>> vec(mp.begin(), mp.end());
-        sort(vec.begin(), vec.end(), [](const pair<char, int>& a, const pair<char, int>& b) {
-            return a.second > b.second;
-        });
-
-        int index=0;
-        for(const pair<char,int>p:vec)
-        {
-            int counter=(index/8)+1;
-            index++;
-            result+=(p.second*counter);
-            cout<<p.second<<endl;
+        sort(alphabets.begin(),alphabets.end(),greater<int>());
+        int result=0,m=0;
+        for(int i=0;i<alphabets.size();i++){
+            if(i>=0 && i<8){
+                m=1;
+            }
+            else if(i>=8 && i<16){
+                m=2;
+            }
+            else if(i>=16 && i<24 ){
+                m=3;
+            }
+            else{
+                m=4;
+            }
+            result+=alphabets[i]*m;
         }
         return result;
     }
