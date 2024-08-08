@@ -377,6 +377,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/AYUSH-002/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0921-spiral-matrix-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AYUSH-002/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
@@ -531,6 +532,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AYUSH-002/LEETCODE/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AYUSH-002/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -606,6 +608,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
+| [0921-spiral-matrix-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
