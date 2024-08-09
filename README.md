@@ -377,6 +377,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/AYUSH-002/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -466,6 +467,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1129-longest-string-chain](https://github.com/AYUSH-002/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/AYUSH-002/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AYUSH-002/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -560,6 +562,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
@@ -608,6 +611,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
+| [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AYUSH-002/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AYUSH-002/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AYUSH-002/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
