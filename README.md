@@ -592,6 +592,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AYUSH-002/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -697,4 +698,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
