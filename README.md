@@ -493,6 +493,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AYUSH-002/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AYUSH-002/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AYUSH-002/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSH-002/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -532,6 +533,7 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AYUSH-002/LEETCODE/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AYUSH-002/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
