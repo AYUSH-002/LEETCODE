@@ -606,6 +606,7 @@
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AYUSH-002/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/AYUSH-002/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/AYUSH-002/LEETCODE/tree/master/2846-robot-collisions) |
@@ -614,6 +615,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AYUSH-002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -710,9 +712,11 @@
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
