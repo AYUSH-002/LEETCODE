@@ -338,6 +338,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AYUSH-002/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AYUSH-002/LEETCODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -639,6 +640,7 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AYUSH-002/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -647,6 +649,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AYUSH-002/LEETCODE/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AYUSH-002/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
