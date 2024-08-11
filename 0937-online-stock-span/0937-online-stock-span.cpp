@@ -1,3 +1,9 @@
+static int speedup = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(0);
+	return 0;
+}();
 class StockSpanner {
 public:
    stack<pair<int, int>>st;
