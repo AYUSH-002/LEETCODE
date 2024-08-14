@@ -412,6 +412,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/AYUSH-002/LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AYUSH-002/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/AYUSH-002/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -571,6 +572,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -722,4 +724,8 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/AYUSH-002/LEETCODE/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AYUSH-002/LEETCODE/tree/master/0969-number-of-recent-calls) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
