@@ -423,6 +423,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AYUSH-002/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/AYUSH-002/LEETCODE/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AYUSH-002/LEETCODE/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
@@ -474,6 +475,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
@@ -576,6 +578,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -682,6 +685,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/AYUSH-002/LEETCODE/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
