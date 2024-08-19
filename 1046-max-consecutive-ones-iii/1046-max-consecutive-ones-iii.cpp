@@ -9,7 +9,6 @@ public:
         while(right<n)
         {
             if(nums[right]==0) zeroCount++;
-
             while(zeroCount>k)
             {
                 if(nums[left]==0) zeroCount--;
