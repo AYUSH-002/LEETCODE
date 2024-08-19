@@ -429,6 +429,7 @@
 | [0392-is-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/AYUSH-002/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AYUSH-002/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -580,6 +581,7 @@
 | [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/AYUSH-002/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
