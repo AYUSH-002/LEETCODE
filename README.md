@@ -645,6 +645,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AYUSH-002/LEETCODE/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/AYUSH-002/LEETCODE/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/AYUSH-002/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/AYUSH-002/LEETCODE/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
