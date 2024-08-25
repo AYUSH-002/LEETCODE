@@ -453,6 +453,7 @@
 | [0394-decode-string](https://github.com/AYUSH-002/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AYUSH-002/LEETCODE/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/AYUSH-002/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/AYUSH-002/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/AYUSH-002/LEETCODE/tree/master/0649-dota2-senate) |
 | [0726-number-of-atoms](https://github.com/AYUSH-002/LEETCODE/tree/master/0726-number-of-atoms) |
@@ -581,6 +582,7 @@
 | [0062-unique-paths](https://github.com/AYUSH-002/LEETCODE/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/AYUSH-002/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AYUSH-002/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/AYUSH-002/LEETCODE/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/AYUSH-002/LEETCODE/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AYUSH-002/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AYUSH-002/LEETCODE/tree/master/1013-fibonacci-number) |
